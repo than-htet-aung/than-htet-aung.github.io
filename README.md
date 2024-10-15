@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MgThanJoJO
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Amazon Web Service(AWS)
+- 💞️ I’m looking to collaborate on abroad companies
+- 📫 email: thanhtetaung11001@gmail.com
