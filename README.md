@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MgThanJoJO
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Amazon Web Service(AWS)
-- 💞️ I’m looking to collaborate on abroad companies
-- 📫 email: thanhtetaung11001@gmail.com
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
+
+This repository is built step by step in the tutorial.
